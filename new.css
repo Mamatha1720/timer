@@ -1,0 +1,22 @@
+#countdown {
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(144, 201, 252) ;
+    /* background: -moz-radial-gradient(); */
+    text-align: center;
+  }
+  
+  #timer {
+    text-shadow: 0ch;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #timer div {
+    margin: 0 10px;
+  }
+  
+  #timer span {
+    /* color: rgb(108, 171, 171); */
+    display: block;
+    font-size: 24px;
+  }
